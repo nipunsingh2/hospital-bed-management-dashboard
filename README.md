@@ -45,3 +45,5 @@ Easily deploy to [Streamlit Cloud](https://streamlit.io/cloud) or run locally:
 ```bash
 streamlit run dashboard.py
 
+
+                                                                                                                                                                                                                  Made with ❤️ by Nipun Singh
