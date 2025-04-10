@@ -2,6 +2,7 @@
 
 Made with ❤️ by Nipun Singh
 
+See here - https://hospital-bed-management-dashboard.streamlit.app/
 
 This project is an end-to-end **Machine Learning-powered Hospital Bed Management System** that predicts patient stay durations, dynamically allocates hospital beds, and visualizes critical statistics via an interactive Streamlit dashboard.
 
@@ -47,3 +48,4 @@ This project is an end-to-end **Machine Learning-powered Hospital Bed Management
 Easily deploy to [Streamlit Cloud](https://streamlit.io/cloud) or run locally:
 ```bash
 streamlit run dashboard.py
+
